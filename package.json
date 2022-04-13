@@ -1,0 +1,27 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Practice JS",
+  "main": "02practive.js",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "follow-redirects": "^1.14.9",
+    "mocha": "^9.2.2"
+  },
+  "scripts": {
+    "test": "node ba-Practice"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raparthiqa18/JavaScriptpractice.git"
+  },
+  "author": "Rakesh Raparthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raparthiqa18/JavaScriptpractice/issues"
+  },
+  "homepage": "https://github.com/raparthiqa18/JavaScriptpractice#readme",
+  "devDependencies": {
+    "chai": "^4.3.6"
+  }
+}
